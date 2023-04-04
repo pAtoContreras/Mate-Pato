@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Relais colis",
+      "price": 5
+    },
+    {
+      "id": 2,
+      "name": "Domicile",
+      "price": 10
+    },
+    {
+      "id": 3,
+      "name": "A la boutique",
+      "price": 0
+    }
+  ]

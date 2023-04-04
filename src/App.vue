@@ -1,11 +1,11 @@
 <script setup>
 
-import PagePanier from './components/PagePanier.vue';
+import Carte from './components/Carte.vue';
 
 </script>
 
 <template>
-<PagePanier></PagePanier>
+<Carte></Carte>
 </template>
 
 <style scoped>
