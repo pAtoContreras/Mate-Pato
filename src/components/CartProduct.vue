@@ -1,24 +1,15 @@
 <template>
-
-<tr >
+<tr>
           <td><img :src="localProduct.img"></td>
           <td> {{ localProduct.name }}</td>
           <td >
             <input type="number"  v-model="localProduct.quantity"/>
           </td>  
-          
           <td> {{ localProduct.unit_price }} €</td>
           <td> {{ localProduct.total_price }} €</td>
-          <td ><button  class=" btn btn-danger" @click="remove">Supprimer</button></td>
-         
-          
+          <td ><button  class=" btn btn-danger" @click="remove">Supprimer</button></td> 
 </tr>
-
-
 </template>
-
-
-
 
 <script>
   export default {
@@ -71,7 +62,6 @@
     },
   }
 </script>
-
 
 <style scoped>
 

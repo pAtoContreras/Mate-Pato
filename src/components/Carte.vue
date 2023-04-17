@@ -40,6 +40,7 @@
 			</tfoot>
 		</table>
 	</div>
+  
 
 </template>
 
@@ -102,6 +103,8 @@ export default {
       return total;
   },
 },
+
+
 // watch
   watch: {
     cartProducts: {

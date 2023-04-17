@@ -1,11 +1,17 @@
-<script setup>
+<script>
 
-import Carte from './components/Carte.vue';
+import HeaderPage from './components/HeaderPage.vue';
 
+export default {
+    components:{
+        HeaderPage
+  }
+}
 </script>
 
 <template>
-<Carte></Carte>
+<HeaderPage />
+<router-view></router-view>
 </template>
 
 <style scoped>
