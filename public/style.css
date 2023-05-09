@@ -520,7 +520,7 @@ body {
 }
 
 .presentacion .container #infoPre {
-    background: #47434342;
+    background: #4743438e;
     justify-content: space-around;
     display: flex;
     position: relative;
@@ -596,7 +596,7 @@ body {
 ***************************************************/
 
 .infProduit {
-    background-color: #96bb7aa2;
+    background-color: #ffffffdc;
     font-style: normal;
     min-height: 700px;
     color: #090909;
@@ -727,9 +727,9 @@ body {
 
 .cardProduit {
     border-radius: 50px;
-
-    width: 300px;
-    min-height: 410px;
+    padding-top: 5%;
+    width: 20%;
+    min-height: 25%;
     background-color: #fefefe;
     align-items: center;
     display: inline-block;

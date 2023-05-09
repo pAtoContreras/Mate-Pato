@@ -40,8 +40,6 @@
 			</tfoot>
 		</table>
 	</div>
-  
-
 </template>
 
 <script>
@@ -103,7 +101,6 @@ export default {
       return total;
   },
 },
-
 
 // watch
   watch: {

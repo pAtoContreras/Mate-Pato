@@ -1,0 +1,10 @@
+{
+  "id":1,
+  "unit_price" : 49,
+  "quantity" : 2,
+  "name": "Mate imperial",
+  "img": "/img/imperial.jpg",
+  "description":"17 avis Prix régulier19.99€ ✓ 150 - 200 ml ✓ Calebasse traditionnelle ✓ Fabriquée à la main",
+  "rating": 4.5,
+  "category_id": 1
+}

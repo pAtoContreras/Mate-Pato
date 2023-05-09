@@ -1,0 +1,9 @@
+{
+    "id":6,
+    "name": "Yerba Mate Baldo",
+    "unit_price" : 11,
+    "rating": 3,
+    "img": "../img/baldo.webp",
+    "description": "17 avis Prix régulier19.99€ ✓ 150 - 200 ml ✓ Calebasse traditionnelle ✓ Fabriquée à la main",
+    "category_id": 2
+  }

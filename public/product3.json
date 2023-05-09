@@ -1,0 +1,11 @@
+{
+  "id":3,
+  "quantity" : 1,
+  "name": "Mate Camionero",
+  "img": "/img/camionero.jpg",
+  "category": "Mate",
+  "description": "17 avis Prix régulier19.99€ ✓ 150 - 200 ml ✓ Calebasse traditionnelle ✓ Fabriquée à la main",
+  "unit_price": 35,
+  "rating": 3,
+  "category_id": 1
+}

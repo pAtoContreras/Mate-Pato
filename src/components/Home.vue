@@ -15,31 +15,31 @@
                         </button></a>
                 </div>
                 <div id="infoPre">
-                    <div class=" ">
-                        <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" class="bg-secondary"
+                    <div class="text-light  ">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" 
                             style="border-radius: 90%;" id="iconoPre">
                             <path
                                 d="m27.5 43.8-2.1-2.1 7.1-7.1-19.1-19.1-7.1 7.1-2.1-2.1L7 17.6l-2.8-2.8 4.25-4.25-2.1-2.1 2.1-2.1L10.6 8.4l4.2-4.2L17.6 7l2.9-2.8 2.1 2.1-7.1 7.1 19.1 19.1 7.1-7.1 2.1 2.1-2.8 2.9 2.8 2.8-4.3 4.3 2.1 2.1-2.1 2.1-2.1-2.1-4.2 4.2-2.8-2.8Z" />
                         </svg>
-                        <H3 class="bg-dark py-2">Effet énergisant pour la journée</H3>
+                        <H3 class="text-light  py-2">Effet énergisant pour la journée</H3>
                     </div>
-                    <div class="">
+                    <div class="text-light ">
 
-                        <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" class="bg-secondary"
+                        <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" 
                             style="border-radius: 90%;" id="iconoPre">
                             <path
                                 d="M22.55 38.35h2.75v-2.6q3.05-.35 4.75-1.875 1.7-1.525 1.7-4.075 0-2.55-1.45-4.15-1.45-1.6-4.9-3.05-2.9-1.2-4.2-2.15-1.3-.95-1.3-2.55 0-1.55 1.125-2.45 1.125-.9 3.075-.9 1.5 0 2.6.7t1.85 2.1l2.4-1.15q-.85-1.75-2.25-2.75t-3.3-1.2V9.7h-2.75v2.55q-2.55.35-4.025 1.875Q17.15 15.65 17.15 17.9q0 2.45 1.5 3.9 1.5 1.45 4.5 2.7 3.35 1.4 4.6 2.525Q29 28.15 29 29.8q0 1.6-1.325 2.575-1.325.975-3.325.975-1.95 0-3.475-1.1-1.525-1.1-2.125-3l-2.55.85q1.05 2.3 2.575 3.625Q20.3 35.05 22.55 35.65ZM24 44q-4.1 0-7.75-1.575-3.65-1.575-6.375-4.3-2.725-2.725-4.3-6.375Q4 28.1 4 24q0-4.15 1.575-7.8 1.575-3.65 4.3-6.35 2.725-2.7 6.375-4.275Q19.9 4 24 4q4.15 0 7.8 1.575 3.65 1.575 6.35 4.275 2.7 2.7 4.275 6.35Q44 19.85 44 24q0 4.1-1.575 7.75-1.575 3.65-4.275 6.375t-6.35 4.3Q28.15 44 24 44Zm0-3q7.1 0 12.05-4.975Q41 31.05 41 24q0-7.1-4.95-12.05Q31.1 7 24 7q-7.05 0-12.025 4.95Q7 16.9 7 24q0 7.05 4.975 12.025Q16.95 41 24 41Zm0-17Z" />
                         </svg>
-                        <H3 class="bg-dark py-2">2 à 3 fois moins cher que le thé</H3>
+                        <H3 class="text-light  py-2">2 à 3 fois moins cher que le thé</H3>
                     </div>
-                    <div class=" ">
-                        <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" class="bg-secondary"
+                    <div class=" text-light ">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" 
                             style="border-radius: 90%;" id="iconoPre">
                             <path
                                 d="M8 42v-3h31.95v3Zm7.55-6q-3.15 0-5.35-2.175Q8 31.65 8 28.5V6h33q1.2 0 2.1.9.9.9.9 2.1v8q0 1.2-.9 2.1-.9.9-2.1.9h-4.8v8.5q0 3.15-2.175 5.325Q31.85 36 28.65 36ZM36.2 17H41V9h-4.8ZM15.55 33h13.1q1.8 0 3.175-1.375Q33.2 30.25 33.2 28.5V9H19.85v1.65l3.55 2.9q.05.05.45.9v7.5q0 .5-.35.85t-.9.35h-7.55q-.55 0-.9-.35t-.35-.85v-7.5q0-.25.45-.9l3.6-2.9V9H11v19.5q0 1.75 1.4 3.125T15.55 33Zm6.55-12ZM17.85 9h2Z" />
                         </svg>
 
-                        <H3 class="bg-dark py-2"> 90% d’antioxydants en plus que le thé vert</H3>
+                        <H3 class="text-light py-2"> 90% d’antioxydants en plus que le thé vert</H3>
                     </div>
                 </div>
             </div>
